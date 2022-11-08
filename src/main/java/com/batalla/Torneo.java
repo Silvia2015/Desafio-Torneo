@@ -22,9 +22,9 @@ public class Torneo {
 			}
 		
 		public void presentarContrincantes() {
-			p1.toString();
-			p2.toString();
-			}
+			System.out.println(p1.toString());
+			System.out.println(p2.toString());
+		}
 
 	}
 
