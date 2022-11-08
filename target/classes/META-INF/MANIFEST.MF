@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
+<<<<<<< HEAD
 Built-By: Hernan Blanco
+=======
+Built-By: Caos
+>>>>>>> 26a625ef5e23804a90b74ce923f73213a5a3dacd
 Build-Jdk: 18.0.1.1
 Created-By: Maven Integration for Eclipse
 
